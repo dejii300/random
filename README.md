@@ -13,6 +13,6 @@ git clone https://github.com/dejii300/random/tree/main
 
 ls
 
-cd BD-RANDOM-CLONING
+cd BD-random
 
 python BD-RENDOM.py
